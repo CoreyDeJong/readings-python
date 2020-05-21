@@ -8,5 +8,6 @@
 - [Read-06_Random_Dependency_Injection](Read-06_Random_Dependency_Injection.md)
 - [Read-07-global_nonlocal_keywords](Read-07-global_nonlocal_keywords.md)
 - [Read-08-list_comprehension_&_Decorators](Read-08_list_comprehension.md)
+- [Read-09-Probability](Read-09.md)
 
 
