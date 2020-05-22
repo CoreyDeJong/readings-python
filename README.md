@@ -9,5 +9,6 @@
 - [Read-07-global_nonlocal_keywords](Read-07-global_nonlocal_keywords.md)
 - [Read-08-list_comprehension_&_Decorators](Read-08_list_comprehension.md)
 - [Read-09-Probability](Read-09.md)
+- [Read-10-Stacks and Queue](Read-10.md)
 
 
