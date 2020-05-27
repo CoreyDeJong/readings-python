@@ -10,5 +10,7 @@
 - [Read-08-list_comprehension_&_Decorators](Read-08_list_comprehension.md)
 - [Read-09-Probability](Read-09.md)
 - [Read-10-Stacks and Queue](Read-10.md)
+- [Read-11-Jupyter_Numpy](Read-11.md)
+- [Read-12-Pandas](Read-12.md)
 
 
