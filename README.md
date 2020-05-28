@@ -12,5 +12,6 @@
 - [Read-10-Stacks and Queue](Read-10.md)
 - [Read-11-Jupyter_Numpy](Read-11.md)
 - [Read-12-Pandas](Read-12.md)
+- [Read-13-Linear Regression](Read-13.md)
 
 
