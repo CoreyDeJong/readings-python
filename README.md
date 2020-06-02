@@ -18,7 +18,7 @@
 - [Read-17-Scraping](Read-17.md)
 - [Read-18-Cryptography](Read-18.md)
 - [Read-19-Regular Expressions](Read-19.md)
-<!-- - [Read-20-](Read-20.md)
+- [Read-20-](Read-20.md)
 - [Read-21-](Read-21.md)
 - [Read-22-](Read-22.md)
 - [Read-23-](Read-23.md)
@@ -40,6 +40,6 @@
 - [Read-39-](Read-39.md)
 - [Read-40-](Read-40.md)
 - [Read-41-](Read-41.md)
-- [Read-42-](Read-42.md) -->
+- [Read-42-](Read-42.md)
 
 
