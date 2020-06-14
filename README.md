@@ -19,7 +19,7 @@
 - [Read-18-Cryptography](Read-18.md)
 - [Read-19-Regular Expressions](Read-19.md)
 - [Read-26-Django](Read-26.md)
-- [Read-27-](Read-27.md)
+- [Read-27-Djano Models](Read-27.md)
 - [Read-28-](Read-28.md)
 - [Read-29-](Read-29.md)
 - [Read-30-](Read-30.md)
