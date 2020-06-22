@@ -23,7 +23,7 @@
 - [Read-28-Django Crud and Forms](Read-28.md)
 - [Read-29-Django Custom User](Read-29.md)
 - [Read-30-Hash Table](Read-30.md)
-- [Read-31-](Read-31.md)
+- [Read-31-Django REST](Read-31.md)
 - [Read-32-](Read-32.md)
 - [Read-33-](Read-33.md)
 - [Read-34-](Read-34.md)
