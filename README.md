@@ -31,7 +31,7 @@
 - [Read-36-Whiteboarding](Read-36.md)
 - [Read-37-React](Read-37.md)
 - [Read-38-React(cont.)](Read-38.md)
-- [Read-39-](Read-39.md)
+- [Read-39-React(cont..)](Read-39.md)
 - [Read-40-](Read-40.md)
 - [Read-41-](Read-41.md)
 - [Read-42-](Read-42.md)
