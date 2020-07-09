@@ -4,7 +4,7 @@
 - Use Django's settings.py for the configuration of paths, box sizes etc., instead of having another SCSS specific file (typically _variables.scss), to hold these.
 - Extend your SASS functions by calling Python functions directly out of your Django project.
 View SCSS errors directly in the debug console of your Django's development server.
-- This Django app provides a templatetag {% sass_src 'path/to/file.scss' %}, which can be used instead of the built-in templatetag static.
+- This Django app provides a templatetag `{% sass_src 'path/to/file.scss' %}`, which can be used instead of the built-in templatetag static.
 
 ## Sass
 - extension to CSS that can help write more flexible styles
